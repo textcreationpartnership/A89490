@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ranters last sermon. With the manner of their meetings, ceremonies, and actions; also their damnable, blasphemous and diabolicall tenents; delivered in an exercise neer Pissing-conduit. The third day of the week, being the 2 of August. 1654. With their mock-Psalme. Also God's wonderfull judgements shewed upon Ranters, Quakers and Shakers, and other wicked and profane persons at their meetings and exercises in London and other places. Written by J.M. (a deluded brother) lately escaped out of their snare.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89490</idno>
+            <idno type="STC">Wing M47</idno>
+            <idno type="STC">Thomason E808_1</idno>
+            <idno type="STC">ESTC R207492</idno>
+            <idno type="EEBO-CITATION">99866539</idno>
+            <idno type="PROQUEST">99866539</idno>
+            <idno type="VID">167892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167892)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E808[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ranters last sermon. With the manner of their meetings, ceremonies, and actions; also their damnable, blasphemous and diabolicall tenents; delivered in an exercise neer Pissing-conduit. The third day of the week, being the 2 of August. 1654. With their mock-Psalme. Also God's wonderfull judgements shewed upon Ranters, Quakers and Shakers, and other wicked and profane persons at their meetings and exercises in London and other places. Written by J.M. (a deluded brother) lately escaped out of their snare.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in the year. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Ranters --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167892:1" rendition="simple:additions"/>
+            <p>THE RANTERS <hi>LAST</hi> SERMON.</p>
+            <p>WITH The manner of their <hi>Meetings, Ceremonies</hi> and <hi>Actions;</hi> alſo their Damnable, Blaſphemous and Diabolicall <hi>TENENTS;</hi> delivered in an EXERCISE neer <hi>Piſſing-Conduit.</hi>
+            </p>
+            <p>
+               <hi>The third day of the Week, being the</hi> 2 <hi>of</hi> Auguſt. 1654. With their Mock-PSALME. ALSO GOD'S wonderfull JUDGEMENTS <hi>Shewed upon</hi> Ranters, Quakers <hi>and</hi> Shakers, <hi>and other wicked and Profane Perſons at their Meetings and Exerciſes in</hi> London <hi>and other Places.</hi>
+            </p>
+            <p>Written by <hi>J.M.</hi> (a deluded Brother) lately eſcaped out of their <hi>Snare.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> in the Year .1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:167892:2"/>
+            <pb n="3" facs="tcp:167892:2"/>
+            <head>THE RANTERS <hi>LAST</hi> SERMON.</head>
+            <p>ON <hi>Monday</hi> the ſecond of this inſtant <hi>Aug.</hi> a Com<g ref="char:EOLhyphen"/>pany of People (called <hi>Ranters</hi>) meeting in a Houſe neer <hi>Piſſing-Conduit</hi> in <hi>Cheap-ſide,</hi> taught many <hi>Diabolical</hi> &amp; <hi>Blaſphemous TENENTS;</hi> the very recital of which, makes both my Heart &amp; Hand to tremble; Yet for the ſatisfaction of many Godly People, that know not the <hi>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpoſitions</hi> of theſe men; and other ſimple <hi>Novices</hi> that they ſeek to <hi>draw in</hi> to be of their Atheiſtical Opini<g ref="char:EOLhyphen"/>nions (as once I was my ſelf, though by Gods Gracious goodneſs to my ſoul, I am now reclaimed from their Er<g ref="char:EOLhyphen"/>rors) I have adventured to lay open to the World their licentious lives, and moſt blaſphemous <hi>doctrines of Devils;</hi> which you may well perceive, if you caſt but your eye up<g ref="char:EOLhyphen"/>on their <hi>TENENTS</hi> which they hold and Teach.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="tenets">
+                        <p n="1">1 <hi>They taught, That they could neither ſce</hi> Evill, <hi>know</hi> Evil, <hi>nor Act</hi> Evill, <hi>and that whatever they did</hi> was Cood, <hi>and not</hi> Evil, <hi>there being no ſuch thing as</hi> ſin <hi>in the World: Whereupon
+<pb n="4" facs="tcp:167892:3"/>Miſtris</hi> E. B. <hi>ſtriking fire at a</hi> Tinder-box <hi>lights up a Candle, ſeeks under the Bed, Table, and ſtooles, and at laſt comming to one of the men, ſhee offers to unbutton his Cod-piece; who demanding of her what ſhe ſought for? ſhe anſweth,</hi> For ſin: <hi>whereupon he blows out her Candle, leads her to the Bed, where in the ſight of all the reſt, they commit Fornication.</hi>
+                        </p>
+                        <p n="2">2. <hi>They taught, That it was quite contrary to the end of the Creation, to Appropriate any thing to any Man or Woman; but that there ought to be a Community of all things.</hi>
+                        </p>
+                        <p n="3">3. <hi>That to Feaſt, Revell, Drinke, Sing, Roare, and to ſweare great Oathes, and to lye with a Whore, though in the Market-place, was as good Actions, as to Pray, Preach, or perform other Du<g ref="char:EOLhyphen"/>ties of Chriſtian Religion.</hi>
+                        </p>
+                        <p n="4">4. <hi>That there was neither God, nor Devill, Heaven nor Hell, Angel nor Feind; but that all things were by</hi> Providence.</p>
+                        <p n="5">5. <hi>That our</hi> Ever bleſſed Saviour, <hi>was a Baſtard, and an Im<g ref="char:EOLhyphen"/>poſtor and deceiver of the Chriſtians, as</hi> Moſes <hi>was of the Jews, and</hi> Mahumet <hi>of the Heathens.</hi>
+                        </p>
+                        <p n="6">6. <hi>That the Sacred BIBLE was but a meer</hi> Romance, <hi>and Contradictory to it ſelf; only invented by the Witts of Former A<g ref="char:EOLhyphen"/>ges, to keep People in ſubjection, and (as they term it) in</hi> Egyp<g ref="char:EOLhyphen"/>tian <hi>ſlavery; likewiſe, That there was as much truth in the Hiſto<g ref="char:EOLhyphen"/>ry of</hi> Tom Thumb, <hi>or</hi> The Knight of the SUN, <hi>as there was in that Book.</hi>
+                        </p>
+                        <trailer>Oh deteſtable Blaſphemies!</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ After they had diſcuſſed upon theſe Diabolicall <hi>Er<g ref="char:EOLhyphen"/>rors</hi> and Atheiſticall Blaſphemies for the ſpace of two
+<pb n="5" facs="tcp:167892:3"/>hours; in the mock and deriſion of ſinging of <hi>Pſalmes,</hi> one of them read this lacivious, and Bawdy Sonnet follow<g ref="char:EOLhyphen"/>ing; all the reſt ſinging after her.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Psalm">
+                        <lg>
+                           <head>¶ Their PSALME.</head>
+                           <l>YOu that can Revell Day and Night,</l>
+                           <l>To enjoy the Fruits of <hi>Loves</hi> Delight</l>
+                           <l>With whomſoere you can acquire,</l>
+                           <l>To quench the flames of <hi>Cupid's</hi> fire,</l>
+                           <l>You muſt mark this, that when you meet</l>
+                           <l>(In Garden, Orchard, Field or ſtreet)</l>
+                           <l>With Feeble Brethren that ſcarce can</l>
+                           <l>Perform the duty of a man,</l>
+                           <l>Let them not ſaly from your lapp</l>
+                           <l>Til you ſalute them with a Clap;</l>
+                           <l>Dear <hi>Siſters,</hi> you may freely doo't</l>
+                           <l>As eaſy as to ſtirr a foot,</l>
+                           <l>But if you cannot, tell me now,</l>
+                           <l>And I my ſelf will teach you how.</l>
+                        </lg>
+                        <lg>
+                           <l>When you meet luſty men of ſtrength,</l>
+                           <l>That will not bate a jot of length,</l>
+                           <l>Oh hugg them hard, and ſuck them in,</l>
+                           <l>
+                              <g ref="char:V">Ʋ</g>ntill they even do burſt your skin,</l>
+                           <l>Spread forth the crannyes of thoſe Rocks</l>
+                           <l>That lie beneath your Holland ſmocks;</l>
+                           <l>Stretch out your limbs, ſigh, heave and ſtrains,</l>
+                           <l>Till you have opened every veine:</l>
+                           <l>That ſo <hi>Loves</hi> gentle juice that flowes</l>
+                           <l>Like Dewie Nectar, out of thoſe</l>
+                           <l>That preſs you down may run a tilt,</l>
+                           <l>Into your wombs, and not be ſpilt</l>
+                           <l>Do this (dear <hi>Siſters</hi>) and hereby</l>
+                           <l>You ſhall increaſe and multiply,</l>
+                           <pb n="6" facs="tcp:167892:4"/>
+                           <l>And in ſome <hi>20</hi> years you'l ſpread</l>
+                           <l>Further then <hi>Jacob's</hi> Children did.</l>
+                           <l>But (like the <hi>Saints</hi>) I pray be ſure</l>
+                           <l>Your ſpeeches all be fine and pure;</l>
+                           <l>Let Goſpel words, and ſweet Expreſſions,</l>
+                           <l>Divine Narrations, and Confeſſions</l>
+                           <l>Be in your mouthes, though luſty T—ſes,</l>
+                           <l>Are ſtowtly knocking at your A—ſes.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Oh damnable Impieties! oh Monſterous Wickedneſs! oh curſed <hi>Blaſphemies!</hi> How can the glorious <hi>Eye</hi> of heaven behold theſe <hi>miſcreants</hi> without <hi>melting into tears,</hi> to cauſe <hi>a ſecond Deluge over the face of the whole Earth?</hi> Muſt they needs (like <hi>flies</hi>) burn themſelves in that flame that ſhould light them? A ſad <hi>race,</hi> to run through all <hi>Religions,</hi> into al <hi>wickedneſs,</hi> and conſequently, into eternall <hi>deſtruction;</hi> Ne<g ref="char:EOLhyphen"/>ver, <hi>Never, Never,</hi> to behold the face of God: Tell mee O <hi>Atheist,</hi> Who made thoſe gloriou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Lamps</hi> of Heaven, the <hi>Sun</hi> and <hi>Moon,</hi> the twinkling <hi>Starres,</hi> the <hi>Windes,</hi> the <hi>Hale,</hi> the <hi>Rain,</hi> the <hi>froſt</hi> and <hi>ſnow,</hi> the <hi>Rain-bow, Thunder</hi> &amp; <hi>Light<g ref="char:EOLhyphen"/>ning,</hi> the <hi>Night</hi> &amp; <hi>Day, Winter</hi> &amp; <hi>Summer,</hi> the <hi>Earth,</hi> the <hi>Sea,</hi> and all that in them is? Certainly, none but the LORD <hi>GOD</hi> could do this?</p>
+            <q>
+               <l>All theſe He caſt in the pure mould of LOVE,</l>
+               <l>That Man might place his ſoul and thoughts above.</l>
+            </q>
+            <p>But in vain do I ſeek to waſh theſe <hi>Blackmores</hi> white, or to charm theſe <hi>deaf Adders;</hi> Therefore I ſhall here inſert ſome few of God's <hi>direfull Judgements</hi> happening on ſome of theſe <hi>Renters, Quakers, Shakers,</hi> and the reſt of their <hi>athei<g ref="char:EOLhyphen"/>ſtical Crew,</hi> as it is inſtanced by that famous and Reverend <hi>Divine,</hi> Mr. <hi>Edward Cotton.</hi>
+            </p>
+            <p>A Crew of <hi>Ranters</hi> meeting at <hi>Hammet</hi> in <hi>Germany,</hi> af<g ref="char:EOLhyphen"/>ter many dayes ſpent in Riotting and Revelling, Drink<g ref="char:EOLhyphen"/>ing,
+<pb n="7" facs="tcp:167892:4"/>Swearing &amp; Blaſpheming; ſaying, There was no God, no Devil, no Heaven, no Hell, but that the Soul was mor<g ref="char:EOLhyphen"/>tall, and the Scripturture a Fiction; As they were belſhing out theſe <hi>Blaſphemies,</hi> the <hi>Devil</hi> appeared amongſt them in a very High, Terrible and Monſterous ſhape, like unto an in<g ref="char:EOLhyphen"/>vincible Gyant, carrying away a Hundred and Thirty of their Children in a great ſmoak, and fiery Flame; that they were never ſeen again to this day.</p>
+            <p>That at <hi>Boulton</hi> in <hi>Lancaſhire,</hi> the <hi>Devil</hi> apperred to one <hi>Mr Smith</hi> a <hi>Ranter,</hi> and bid him go to an Apothecaries to buy an Ounce of <hi>Arſnick,</hi> whereupon the ſaid <hi>Smith</hi> pre<g ref="char:EOLhyphen"/>ſently went, but could not procure the ſad <hi>Arſnick,</hi> un<g ref="char:EOLhyphen"/>leſſe he brought ſufficient ſecurity. That he ſhould do no injury with the ſame, either to himſelf or any other; ſo he ſaid <hi>Smith</hi> departing, ſaid He would fetch ſecurrity, and the next day came again accompanyed by the <hi>Devil</hi> in the ſhape of a man, who ingaged he ſhould do no harm to any one; but ſo ſoon as he had received the ſaid <hi>Aſnick,</hi> a great flaſh of Fire appeared, as if it had been Lightning from the higheſt Firmament, and carried away both the <hi>Ranter</hi> and the <hi>Apothecary;</hi> neither of them being ſeen ever after that time to this very day.</p>
+            <p>That conſtantly, at their <hi>Ranting-Meetings</hi> both in this City of <hi>London,</hi> and in the Countrey, the <hi>Devil</hi> oftentimes appeares amongſt them, ſometimes in the ſhape of a man, and other times in the ſhape of a Woman, and taking them by the hands very familiarly, he leaves the print of his <hi>fowl Paws</hi> behinde him; which the <hi>Ranters</hi> can never after get out, it remaining <hi>black</hi> and <hi>Blue,</hi> they being fearfully tormented thereat, that neither <hi>Chains</hi> nor <hi>cords</hi> can hold them in their beds. Others are pluck'd out of their beds, and crrried out of their <hi>Chambers</hi> by the <hi>Haire</hi> of their heads, and toſſed up &amp; down from one Room to another.</p>
+            <pb n="8" facs="tcp:167892:5"/>
+            <p>Many other dreadfull <hi>Examples</hi> of Gods heavy Judge<g ref="char:EOLhyphen"/>ments upon ſuch <hi>Atheiſts</hi> and filthy unclean <hi>wretches,</hi> and their fleſhly fooliſhneſs, might be ſhewn at large to dehort others from their evil Inſtigations; but this may ſuffice to ſhew that theſe <hi>filthy Dreamers</hi> are ſuch, that having had ſome knowledge of the <hi>wayes</hi> of <hi>God,</hi> and his <hi>holy Word,</hi> tur<g ref="char:EOLhyphen"/>ning <hi>his Grace</hi> into <hi>wantonneſs,</hi> wreſt the ſacred Scriptures to their own deſtruction, and like Apoſtate wretches, a<g ref="char:EOLhyphen"/>bandon God and all goodneſs, and being given over to all manner of filthineſs and uncleanneſs, become the very <hi>ſeed</hi> and <hi>ſpring</hi> of the <hi>Serpent,</hi> conſecrating a continual Hol<g ref="char:EOLhyphen"/>lyday to all licentiouſneſs of Living, committing <hi>ſin with gredineſs</hi> without the leaſt ſenſe thereof, which is moſt mi<g ref="char:EOLhyphen"/>ſerable: But if this be the perfection of <hi>new fancied Reli<g ref="char:EOLhyphen"/>gions,</hi> to run through all into <hi>Atheiſme,</hi> I praiſe God, that he hath given me grace to come out of <hi>Babylon,</hi> leave them in the <hi>broad way,</hi> and ſeek out the <hi>good old Way,</hi> the right <hi>Path,</hi> that leads to eternall felicity: And truly, when I was amongſt them, I ſaw no Reverence, but much Impietie, Pre<g ref="char:EOLhyphen"/>ſumption Profanation, and ſecret wickedneſſe; which was the cauſe I left them; and ſince renouncing my own car<g ref="char:EOLhyphen"/>nall wiſedom, I rather deſire to be rul'd by <hi>ſound Reaſon,</hi> then carnall <hi>ſenſe;</hi> look into my felf, and my own deceitful heart, and ſo lay my hand upon my mouth, ſtrike upon my breaſt, and humble my ſelf to the very duſt, and according to <hi>Gods holy Word,</hi> Worke out my own ſalvation <hi>with fear and trembling,</hi> love GOD above all; my Neighbour as my ſelf, and do as I would be done by; and in what I come ſhort of this, to rely upon the Al-ſufficient merits of my Lord and Saviour; <hi>To whoſe moſt holy NAME be aſcribed al Power, Glory</hi> and <hi>Thanksgiving</hi> by <hi>Angels</hi> and <hi>Men</hi> in this World, and that which is to come, AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
